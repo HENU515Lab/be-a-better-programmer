@@ -33,9 +33,9 @@ Ref: [参考资料](https://github.com/HENU515Lab/be-a-better-programmer/blob/ma
 
 |No.|Date|Topic|
 |:--|:--:|:--|
-|1|10.15|Gitlab Immitatimmitationion|
-|2|11.15|Code Review|
-|3|11.15|Use Google|
+|1|10.15|Gitlab Immitation|
+|2|11.15|Use Google|
+|3|11.16|Code Review|
 |4|11.17|Use git and github|
 |5|11.18|Visual Studio IDE Immitation|
 |6|12.1|Use Markdown|
