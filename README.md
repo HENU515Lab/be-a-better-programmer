@@ -1,4 +1,4 @@
-#   HENU 515 实验室 2018 级培养计划
+#   2018 级培养计划 @ HENU 515 Lab
 
 ##  主要人员
 
@@ -18,6 +18,27 @@
     *   [LelandYan](https://github.com/LelandYan)
     *   [StathamWYJ](https://github.com/StathamWYJ)
     *   [GetlostWGY](https://github.com/GetlostWGY)
+
+##  说明
+
+作业：[网上提交](https://github.com/HENU515Lab/be-a-better-programmer/blob/master/hwhowto.md)
+
+主要考核： [seriouszyx](https://github.com/seriouszyx) | [liuyib](https://github.com/liuyib)
+
+Ref: [参考资料](https://github.com/HENU515Lab/be-a-better-programmer/blob/master/ref.md)
+
+------
+
+## Schedule
+
+|No.|Date|Topic|
+|:--|:--:|:--|
+|1|10.15|Gitlab Immitatimmitationion|
+|2|11.15|Code Review|
+|3|11.15|Use Google|
+|4|11.17|Use git and github|
+|5|11.18|Visual Studio IDE Immitation|
+|6|12.1|Use Markdown|
 
 
 
