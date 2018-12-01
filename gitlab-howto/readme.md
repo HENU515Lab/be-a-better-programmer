@@ -107,7 +107,7 @@ Xiaobo Liu
 
 其他辅助文件随意。
 
-> 更多`git`使用请看 [ref.md](../ref.md)
+> 更多 `git` 和 `Markdown` 使用请看 [ref.md](../ref.md)
 
 
 
