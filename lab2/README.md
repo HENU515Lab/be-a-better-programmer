@@ -34,5 +34,6 @@ In Lab, before Sunday, December 30, I need to see you startup your new distribut
 
 >   reference:
 > [What is Linux?](https://opensource.com/resources/linux)
+> 
 > [CPE453 Laboratory Assignment #0 Installing a Linux Distribution](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/static/pdf/web/viewer.html?file=http%3A%2F%2Fusers.csc.calpoly.edu%2F~mhaungs%2Fcourses%2FCSC454%2Flabs%2F0lab%2FCPE454_LAB0.pdf)
 
